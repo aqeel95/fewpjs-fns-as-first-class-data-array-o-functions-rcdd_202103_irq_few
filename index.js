@@ -8,7 +8,7 @@ let wakeDog = function wakeDog(dogName, dogBreed) {
   }
   let walkToPark = function walkToPark(dogName, dogBreed){
      console.log(`Walk to the park with ${dogName} the ${dogBreed}`);
-     return `Walk to the park with  ${dogName} the ${dogBreed}`;
+     return `Walk to the park with ${dogName} the ${dogBreed}`;
   }
   let throwFrisbee = function throwFrisbee(dogName, dogBreed){
      console.log(`Throw the frisbee for ${dogName} the ${dogBreed}`);
